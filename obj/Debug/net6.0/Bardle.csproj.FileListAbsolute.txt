@@ -1,0 +1,15 @@
+C:\Users\andyf\source\repos\Bardle\Bardle\bin\Debug\net6.0\Bardle.exe
+C:\Users\andyf\source\repos\Bardle\Bardle\bin\Debug\net6.0\Bardle.deps.json
+C:\Users\andyf\source\repos\Bardle\Bardle\bin\Debug\net6.0\Bardle.runtimeconfig.json
+C:\Users\andyf\source\repos\Bardle\Bardle\bin\Debug\net6.0\Bardle.dll
+C:\Users\andyf\source\repos\Bardle\Bardle\bin\Debug\net6.0\Bardle.pdb
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.csproj.AssemblyReference.cache
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.AssemblyInfoInputs.cache
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.AssemblyInfo.cs
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.csproj.CoreCompileInputs.cache
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.dll
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\refint\Bardle.dll
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.pdb
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\Bardle.genruntimeconfig.cache
+C:\Users\andyf\source\repos\Bardle\Bardle\obj\Debug\net6.0\ref\Bardle.dll
